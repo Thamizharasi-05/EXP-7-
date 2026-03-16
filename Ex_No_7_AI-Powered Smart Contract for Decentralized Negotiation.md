@@ -117,11 +117,9 @@ Can be extended to AI oracles for real-time market data.
 Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
 
 # OUTPUT:
-
 ![alt text](<../Screenshot 2026-03-15 183751.png>)
 
 ![alt text](<../Screenshot 2026-03-15 184255.png>)
-
 # RESULT:
 
 Thus AI-Powered smart contract for decentralized negotiation is executed successfully.
