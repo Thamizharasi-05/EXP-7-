@@ -1,6 +1,8 @@
 # Experiment 7: AI-Powered Smart Contract for Decentralized Negotiation
 # Aim:
- To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
+# Name: Thamizharasi G
+# REG NO : 212224100059
+# To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
 
 # Algorithm:
 ## Step 1: AI-Powered Dynamic Pricing
@@ -99,10 +101,11 @@ Buyers submit offers, and the contract auto-negotiates the price.
 
 If the buyer’s offer is fair, the deal is executed.
 
+<img width="1488" height="1046" alt="image" src="https://github.com/user-attachments/assets/ff62d0e0-82db-4239-b0e2-84637a5928f6" />
 
 If the offer is too low, the contract suggests a counteroffer.
 
-
+<img width="1666" height="1050" alt="image" src="https://github.com/user-attachments/assets/4020ab9b-8d3a-41d4-bf0b-7fe5cb7f4bd4" />
 
 # High-Level Overview:
 First-of-its-kind AI-powered pricing contract.
@@ -116,10 +119,6 @@ Can be extended to AI oracles for real-time market data.
 
 Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
 
-# OUTPUT:
-![alt text](<../Screenshot 2026-03-15 183751.png>)
-
-![alt text](<../Screenshot 2026-03-15 184255.png>)
 # RESULT:
 
-Thus AI-Powered smart contract for decentralized negotiation is executed successfully.
+Thus the AI-powered pricing negotiations is successfully verified
